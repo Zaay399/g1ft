@@ -10,7 +10,7 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: pink;
+    background-color: black;
 }
 .greetings{
     font-size: 6rem;
@@ -30,55 +30,55 @@ body{
     }
 }
 .greetings > span:nth-child(2){
-    animation-delay: 1.1s ;
+    animation-delay: 1ms;
 }
 .greetings > span:nth-child(3){
-    animation-delay: 2.1s ;
+    animation-delay: 2ms;
 }
 .greetings > span:nth-child(4){
-    animation-delay: 3.1s;
+    animation-delay: 3ms;
 }
 .greetings > span:nth-child(5){
     animation-delay: 4.1s;
 }
 .greetings > span:nth-child(6){
-    animation-delay: 5.1s ;
+    animation-delay: 5ms;
 }
 .greetings > span:nth-child(7){
-    animation-delay: 6.1s ;
+    animation-delay: 6ms;
 }
 .greetings > span:nth-child(8){
-    animation-delay: 7.1s;
+    animation-delay: 7ms;
 }
 .greetings > span:nth-child(9){
-    animation-delay: 8.1s;
+    animation-delay: 8ms;
 }
 .greetings > span:nth-child(10){
-    animation-delay: 9.1s;
+    animation-delay: 9ms;
 }
 .greetings > span:nth-child(11){
-    animation-delay: 10.1s;
+    animation-delay: 10ms;
 }
 .greetings > span:nth-child(12){
-    animation-delay: 11.1s;
+    animation-delay: 11ms;
 }
 .greetings > span:nth-child(13){
-    animation-delay: 12.1s;
+    animation-delay: 12ms;
 }
 .greetings > span:nth-child(14){
-    animation-delay: 13.1s ;
+    animation-delay: 13ms ;
 }
 .greetings > span:nth-child(15){
-    animation-delay: 14.1s ;
+    animation-delay: 14ms ;
 }
 .greetings > span:nth-child(16){
-    animation-delay: 15.1s;
+    animation-delay: 15ms;
 }
 .greetings > span:nth-child(17){
-    animation-delay: 16.1s;
+    animation-delay: 16ms;
 }
 .greetings > span:nth-child(18){
-    animation-delay: 17.1s;
+    animation-delay: 17ms;
 }
 
 .description{
