@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;1,900&display=swap');
 *{
     font-family: 'Poppins',cursive;
@@ -17,8 +18,7 @@ body{
     font-weight: 900;
 }
 .greetings > span{
-    animation: glow 3.6s ease-in-out infinite;
-    -webkit-animation: glow 3.6s ease-in-out infinite;
+    animation: glow 3.5s ease-in-out infinite;
 }
 @keyframes glow{
     0%, 100%{
@@ -60,27 +60,26 @@ body{
 .greetings > span:nth-child(11){
     animation-delay: 2s;
 }
-.greetings > span:nth-child(12){
+.greetings > span:nth-child(11){
     animation-delay: 2.2s;
-
-}.greetings > span:nth-child(13){
+}
+.greetings > span:nth-child(11){
     animation-delay: 2.4s;
-
-}.greetings > span:nth-child(14){
+}
+.greetings > span:nth-child(11){
     animation-delay: 2.6s;
-
-}.greetings > span:nth-child(15){
+}
+.greetings > span:nth-child(11){
     animation-delay: 2.8s;
-
-}.greetings > span:nth-child(16){
+}
+.greetings > span:nth-child(11){
     animation-delay: 3s;
-
-}.greetings > span:nth-child(17){
+}
+.greetings > span:nth-child(11){
     animation-delay: 3.2s;
-
-}.greetings > span:nth-child(18){
+}
+.greetings > span:nth-child(11){
     animation-delay: 3.4s;
-
 }
 
 .description{
